@@ -1,0 +1,29 @@
+# Carpetas de IntelliJ IDEA
+.idea/
+*.iml
+
+# Archivos de configuración específicos de IntelliJ
+*.ipr
+*.iws
+
+# Archivos de compilación
+out/
+build/
+target/
+
+# Archivos temporales del sistema
+*.log
+*.class
+*.tmp
+*.swp
+*.bak
+*.DS_Store
+Thumbs.db
+
+# Librerías descargadas (dependencias)
+.gradle/
+.mvn/
+node_modules/
+
+# Configuraciones de tu sistema operativo
+*.orig
